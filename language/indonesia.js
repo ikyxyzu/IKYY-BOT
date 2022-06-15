@@ -359,85 +359,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}poke
 ├ ${prefix}dance
 ╰❒ ${prefix}cringe
-╭─❒ 「 Nsfw & Sfw 」
-├ ${prefix}ahegao
-├ ${prefix}ass
-├ ${prefix}bdsm
-├ ${prefix}blowjob
-├ ${prefix}cuckold
-├ ${prefix}cum
-├ ${prefix}ero
-├ ${prefix}femdom
-├ ${prefix}foot
-├ ${prefix}gangbang
-├ ${prefix}glasses
-├ ${prefix}jahy
-├ ${prefix}manga
-├ ${prefix}masturbation
-├ ${prefix}neko
-├ ${prefix}orgy
-├ ${prefix}panties
-├ ${prefix}pussy
-├ ${prefix}tentacles
-├ ${prefix}thighs
-├ ${prefix}yuri
-├ ${prefix}feet
-├ ${prefix}lewdkemo
-├ ${prefix}woof
-├ ${prefix}gasm
-├ ${prefix}solo
-├ ${prefix}8ball
-├ ${prefix}goose
-├ ${prefix}avatar
-├ ${prefix}hololewd
-├ ${prefix}gecg
-├ ${prefix}holo
-├ ${prefix}fox_girl
-├ ${prefix}tits
-├ ${prefix}eroyuri
-├ ${prefix}holoyero
-├ ${prefix}lizard
-├ ${prefix}keta
-├ ${prefix}eron
-├ ${prefix}erok
-├ ${prefix}kemonomimi
-├ ${prefix}cum_jpg
-├ ${prefix}nsfw_avatar
-├ ${prefix}erofeet
-├ ${prefix}meow
-├ ${prefix}wallpaper
-├ ${prefix}waifu
-├ ${prefix}trap
-├ ${prefix}lewd
-├ ${prefix}pussy_jpg
-├ ${prefix}futanari
-├ ${prefix}lewdk
-├ ${prefix}solog
-├ ${prefix}smug
-├ ${prefix}cum
-├ ${prefix}slap
-├ ${prefix}les
-├ ${prefix}erokemo
-├ ${prefix}bj
-├ ${prefix}pwankg
-├ ${prefix}pat
-├ ${prefix}poke
-├ ${prefix}feed
-├ ${prefix}nsfw_neko_gif
-├ ${prefix}pussy
-├ ${prefix}feetg
-├ ${prefix}baka
-├ ${prefix}hug
-├ ${prefix}kiss
-├ ${prefix}tickle
-├ ${prefix}spank
-├ ${prefix}kuni
-├ ${prefix}classic
-├ ${prefix}boobs
-├ ${prefix}anal
-├ ${prefix}ngif
-├ ${prefix}cuddle
-╰❒ ${prefix}zettai
 ╭─❒ 「 Ephoto360 Menu 」
 ├ ${prefix}youtubegold
 ├ ${prefix}youtubesilver
@@ -713,29 +634,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}tekateki
 ├ ${prefix}susunkata
 ╰❒ ${prefix}caklontong
-╭─❒ 「 Asupan Menu 」
-├ ${prefix}chika
-├ ${prefix}delvira
-├ ${prefix}ayu
-├ ${prefix}bunga
-├ ${prefix}aura
-├ ${prefix}nisa
-├ ${prefix}ziva
-├ ${prefix}yana
-├ ${prefix}viona
-├ ${prefix}syania
-├ ${prefix}riri
-├ ${prefix}syifa
-├ ${prefix}mama_gina
-├ ${prefix}alcakenya
-├ ${prefix}mangayutri
-├ ${prefix}rikagusriani
-├ ${prefix}asupan
-├ ${prefix}bocil
-├ ${prefix}geayubi
-├ ${prefix}santuy
-├ ${prefix}ukhty
-╰❒ ${prefix}syifa
 ╭─❒ 「 Telegram Sticker 」
 ├ ${prefix}awoawo
 ├ ${prefix}benedict
@@ -758,18 +656,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}sponsbob
 ├ ${prefix}kawan_sponsbob
 ╰❒ ${prefix}tyni
-╭─❒ 「 Random Cewe 」
-├ ${prefix}china 
-├ ${prefix}indonesia 
-├ ${prefix}malaysia 
-├ ${prefix}thailand 
-├ ${prefix}korea 
-├ ${prefix}japan 
-├ ${prefix}vietnam 
-├ ${prefix}jenni 
-├ ${prefix}jiso 
-├ ${prefix}lisa  
-╰❒ ${prefix}rose
 ╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
@@ -780,6 +666,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Ikyxyzu
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -1097,89 +984,6 @@ exports.ranime = (prefix) =>{
 `
 }
 
-exports.nsfw = (prefix) =>{
-	return`╭─❒ 「 Nsfw & Sfw 」
-├ ${prefix}ahegao
-├ ${prefix}ass
-├ ${prefix}bdsm
-├ ${prefix}blowjob
-├ ${prefix}cuckold
-├ ${prefix}cum
-├ ${prefix}ero
-├ ${prefix}femdom
-├ ${prefix}foot
-├ ${prefix}gangbang
-├ ${prefix}glasses
-├ ${prefix}jahy
-├ ${prefix}manga
-├ ${prefix}masturbation
-├ ${prefix}neko
-├ ${prefix}orgy
-├ ${prefix}panties
-├ ${prefix}pussy
-├ ${prefix}tentacles
-├ ${prefix}thighs
-├ ${prefix}yuri
-├ ${prefix}feet
-├ ${prefix}lewdkemo
-├ ${prefix}woof
-├ ${prefix}gasm
-├ ${prefix}solo
-├ ${prefix}8ball
-├ ${prefix}goose
-├ ${prefix}avatar
-├ ${prefix}hololewd
-├ ${prefix}gecg
-├ ${prefix}holo
-├ ${prefix}fox_girl
-├ ${prefix}tits
-├ ${prefix}eroyuri
-├ ${prefix}holoyero
-├ ${prefix}lizard
-├ ${prefix}keta
-├ ${prefix}eron
-├ ${prefix}erok
-├ ${prefix}kemonomimi
-├ ${prefix}cum_jpg
-├ ${prefix}nsfw_avatar
-├ ${prefix}erofeet
-├ ${prefix}meow
-├ ${prefix}wallpaper
-├ ${prefix}waifu
-├ ${prefix}trap
-├ ${prefix}lewd
-├ ${prefix}pussy_jpg
-├ ${prefix}futanari
-├ ${prefix}lewdk
-├ ${prefix}solog
-├ ${prefix}smug
-├ ${prefix}cum
-├ ${prefix}slap
-├ ${prefix}les
-├ ${prefix}erokemo
-├ ${prefix}bj
-├ ${prefix}pwankg
-├ ${prefix}pat
-├ ${prefix}poke
-├ ${prefix}feed
-├ ${prefix}nsfw_neko_gif
-├ ${prefix}pussy
-├ ${prefix}feetg
-├ ${prefix}baka
-├ ${prefix}hug
-├ ${prefix}kiss
-├ ${prefix}tickle
-├ ${prefix}spank
-├ ${prefix}kuni
-├ ${prefix}classic
-├ ${prefix}boobs
-├ ${prefix}anal
-├ ${prefix}ngif
-├ ${prefix}cuddle
-╰❒ ${prefix}zettai
-`
-}
-
 exports.textpro = (prefix) =>{
 	return`╭─❒ 「 Textpro Menu 」
 ├ ${prefix}halloween2 text|text2
@@ -1385,47 +1189,6 @@ return`╭─❒ 「 Game Menu 」
 ├ ${prefix}tekateki
 ├ ${prefix}susunkata
 ╰❒ ${prefix}caklontong
-`
-}
-exports.asupan = (prefix) =>{
-return`╭─❒ 「 Asupan Menu 」
-├ ${prefix}chika
-├ ${prefix}delvira
-├ ${prefix}ayu
-├ ${prefix}bunga
-├ ${prefix}aura
-├ ${prefix}nisa
-├ ${prefix}ziva
-├ ${prefix}yana
-├ ${prefix}viona
-├ ${prefix}syania
-├ ${prefix}riri
-├ ${prefix}syifa
-├ ${prefix}mama_gina
-├ ${prefix}alcakenya
-├ ${prefix}mangayutri
-├ ${prefix}rikagusriani
-├ ${prefix}asupan
-├ ${prefix}bocil
-├ ${prefix}geayubi
-├ ${prefix}santuy
-├ ${prefix}ukhty
-╰❒ ${prefix}syifa
-`
-}
-exports.cecan = (prefix) =>{
-return`╭─❒ 「 Random Cewe 」
-├ ${prefix}china 
-├ ${prefix}indonesia 
-├ ${prefix}malaysia 
-├ ${prefix}thailand 
-├ ${prefix}korea 
-├ ${prefix}japan 
-├ ${prefix}vietnam 
-├ ${prefix}jenni 
-├ ${prefix}jiso 
-├ ${prefix}lisa  
-╰❒ ${prefix}rose
 `
 }
 
