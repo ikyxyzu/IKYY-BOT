@@ -57,5 +57,18 @@
     "yargs": "^17.2.1",
     "yt-search": "^2.7.6",
     "ytdl-core": "^4.10.0"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DikaArdnt/Hisoka-Morou.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
+  },
+  "homepage": "https://github.com/DikaArdnt/Hisoka-Morou#readme"
 }
